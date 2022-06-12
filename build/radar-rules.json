@@ -357,6 +357,19 @@
       }
     ]
   },
+  "91porn.com": {
+    "_name": "91porn",
+    ".": [
+      {
+        "title": "91porn",
+        "docs": "https://docs.rsshub.app/multimedia.html#_91porn",
+        "source": [
+          "/index.php"
+        ],
+        "target": "/91porn"
+      }
+    ]
+  },
   "95mm.org": {
     "_name": "MM范",
     ".": [
@@ -1763,6 +1776,19 @@
       }
     ]
   },
+  "cn-healthcare.com": {
+    "_name": "健康界",
+    ".": [
+      {
+        "title": "首页-资讯",
+        "docs": "https://docs.rsshub.app/new-media.html#jian-kang-jie",
+        "source": [
+          "/"
+        ],
+        "target": "/cn-healthcare/index"
+      }
+    ]
+  },
   "cnbeta.com": {
     "_name": "cnBeta",
     ".": [
@@ -2762,6 +2788,20 @@
         "docs": "https://docs.rsshub.app/university.html#hua-dong-li-gong-ji-xu-jiao-yu-xue-yuan",
         "source": "/yeDaZhuanLan.aspx?pk=153",
         "target": "/ecust-jxjy/news"
+      }
+    ]
+  },
+  "elasticsearch.cn": {
+    "_name": "Elastic 中文社区",
+    ".": [
+      {
+        "title": "发现",
+        "docs": "https://docs.rsshub.app/bbs.html#elastic-zhong-wen-she-qu-fa-xian",
+        "source": [
+          "/:params",
+          "/"
+        ],
+        "target": "/elasticsearch-cn/:params"
       }
     ]
   },
@@ -5286,6 +5326,33 @@
       }
     ]
   },
+  "itch.io": {
+    "_name": "itch.io",
+    ".": [
+      {
+        "title": "Browse",
+        "docs": "https://docs.rsshub.app/game.html#itch-io-browse",
+        "source": [
+          "/"
+        ]
+      },
+      {
+        "title": "Developer Logs",
+        "docs": "https://docs.rsshub.app/game.html#itch-io-developer-logs",
+        "source": [
+          "/"
+        ]
+      },
+      {
+        "title": "Posts",
+        "docs": "https://docs.rsshub.app/game.html#itch-io-posts",
+        "source": [
+          "/t/:topic/:id"
+        ],
+        "target": "/itch/posts/:topic/:id"
+      }
+    ]
+  },
   "ithome.com": {
     "_name": "IT 之家",
     ".": [
@@ -7251,6 +7318,19 @@
       }
     ]
   },
+  "mirror.xyz": {
+    "_name": "Mirror",
+    ".": [
+      {
+        "title": "User",
+        "docs": "https://docs.rsshub.app/new-media.html#mirror-user",
+        "source": [
+          "/:id",
+          "/"
+        ]
+      }
+    ]
+  },
   "mobilism.org": {
     "_name": "Mobilism",
     ".": [
@@ -7295,6 +7375,19 @@
           "/"
         ],
         "target": "/mox/:category?"
+      }
+    ]
+  },
+  "52bdys.com": {
+    "_name": "哔嘀影视",
+    ".": [
+      {
+        "title": "首页",
+        "docs": "https://docs.rsshub.app/multimedia.html#bi-di-ying-shi",
+        "source": [
+          "/"
+        ],
+        "target": "/mp4er/:type?/:caty?/:area?/:year?/:order?"
       }
     ]
   },
@@ -7366,6 +7459,18 @@
           "/"
         ],
         "target": "/mygopen/:label?"
+      }
+    ]
+  },
+  "mysql.com": {
+    "_name": "MySQL",
+    "dev": [
+      {
+        "title": "Release Notes",
+        "docs": "https://docs.rsshub.app/programming.html#mysql-release-notes",
+        "source": [
+          "/"
+        ]
       }
     ]
   },
@@ -8453,6 +8558,19 @@
         "source": [
           "/portal.php"
         ]
+      }
+    ]
+  },
+  "pmthinking.com": {
+    "_name": "产品沉思录",
+    ".": [
+      {
+        "title": "首页",
+        "docs": "https://docs.rsshub.app/new-media.html#chan-pin-chen-si-lu-shou-ye",
+        "source": [
+          "/"
+        ],
+        "target": "/pmthinking"
       }
     ]
   },

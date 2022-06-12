@@ -87,6 +87,9 @@
     "/8world/:category?": [
         "nczitzk"
     ],
+    "/91porn/:lang?": [
+        "TonyRL"
+    ],
     "/95mm/tab/:tab?": [
         "nczitzk"
     ],
@@ -385,6 +388,9 @@
     ],
     "/ciidbnu/:id?": [
         "nczitzk"
+    ],
+    "/cn-healthcare/index": [
+        "qnloft"
     ],
     "/cnbeta/": [
         "nczitzk"
@@ -690,6 +696,9 @@
     ],
     "/ehentai/tag/:tag/:page?/:routeParams?": [
         "yindaheng98"
+    ],
+    "/elasticsearch-cn/:params?": [
+        "nczitzk"
     ],
     "/elsevier/:journal/latest": [
         "Derekmini",
@@ -1206,6 +1215,15 @@
         "brilon",
         "Fatpandac"
     ],
+    "/itch/devlog/:user/:id": [
+        "nczitzk"
+    ],
+    "/itch/posts/:topic/:id": [
+        "nczitzk"
+    ],
+    "/itch/:sort?/:tag?": [
+        "nczitzk"
+    ],
     "/ithome/ranking/:type": [
         "immmortal",
         "luyuhuang"
@@ -1560,6 +1578,11 @@
     "/miris/blog": [
         "chazeon"
     ],
+    "/mirror/:id": [
+        "fifteen42",
+        "rde9",
+        "nczitzk"
+    ],
     "/mobilism/forums/:category/:type/:fulltext?": [
         "nitezs"
     ],
@@ -1570,6 +1593,9 @@
         "nczitzk"
     ],
     "/mox/:category?": [
+        "nczitzk"
+    ],
+    "/mp4er/:type?/:caty?/:area?/:year?/:order?": [
         "nczitzk"
     ],
     "/mpaypass/main/:type?": [
@@ -1589,6 +1615,9 @@
         "nczitzk"
     ],
     "/mygopen/:label?": [
+        "nczitzk"
+    ],
+    "/mysql/release/:version?": [
         "nczitzk"
     ],
     "/natgeo/dailyselection": [
@@ -1892,6 +1921,9 @@
     ],
     "/playno1/st/:catid?": [
         "TonyRL"
+    ],
+    "/pmthinking/": [
+        "nczitzk"
     ],
     "/polkaworld/polkaworld/newest": [
         "iceqing"
@@ -4157,8 +4189,6 @@
     "/voa/day-photos": [],
     "/voa/:language/:channel?": [],
     "/6park/:id?/:type?/:keyword?": [],
-    "/mp4er/:type?/:caty?/:area?/:year?/:order?": [],
-    "/bde4/:type?/:caty?/:area?/:year?/:order?": [],
     "/sse/sserules/:slug?": [],
     "/gamegrape/:id?": [],
     "/chsi/zszcgd/:category?": [],
@@ -4300,6 +4330,5 @@
     "/dykszx/news/:type?": [],
     "/secrss/category/:category?": [],
     "/secrss/author/:author?": [],
-    "/fashionnetwork/headline/:country?": [],
-    "/mirror/:id": []
+    "/fashionnetwork/headline/:country?": []
 }
